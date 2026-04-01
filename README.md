@@ -28,8 +28,5 @@ My analysis revealed that employee attrition is driven by two main extremes:
 ## 📁 Repository Structure
 *   `Employee_Attrition_Analysis.ipynb`: Full technical analysis and modeling.
 *   `Salifort_Motors_Executive_Summary.pdf`: A one-page business report for stakeholders.
-*   `salifort_rf_model.pickle`: The trained champion Random Forest model.
-*   `HR_capstone_dataset.csv`: The dataset used for analysis.
-
 ---
 *Developed as part of the Google Advanced Data Analytics Professional Certificate.*
